@@ -1,8 +1,10 @@
 ### Hi there, I'm LTP
 ## I'm a Developer
 
-- 🔭 My CV: [https://ltp110.tk]
-- 🌱 My Blog: [https://www.crf-blogger.gq]
+- 🌱 There is my personal website: [https://ltp110.tk]
+- 🌱 This is my blog and articles: [https://www.crf-blogger.gq]
+- 🌱 Here is the archive of the certificates I have obtained [https://www.linkedin.com/in/ltp1120]
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
