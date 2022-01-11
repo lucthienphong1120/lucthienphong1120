@@ -34,5 +34,7 @@
 <br />
 
 ## GITHUB STATS
-![lucthienphong1120's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
+
+![lucthienphong1120's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
