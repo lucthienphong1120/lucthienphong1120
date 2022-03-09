@@ -59,11 +59,7 @@
 
 ## 🔥 GitHub Stats 🔥
 
-<div style="display: flex;">
-  <a href="#">
+<div>
     <img align="left" height="175" src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  </a>
-  <a href="#">
     <img align="right" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  </a>
 </div>
