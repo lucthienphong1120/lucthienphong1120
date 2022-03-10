@@ -1,19 +1,20 @@
 ### `$ whoami`
-## Hi there, I'm LTP
-## I'm currently a developer and a security engineer
+# Hi there, I'm LTP
 
 - 🇻🇳 : I'm from VietNam
-- ✍️ : There is my personal website: [https://ltp110.tk]
+- 🔥 : There is my personal website: [https://ltp110.tk]
 - ✍️ : This is my blog and articles: [https://www.crf-blogger.gq]
-- ✍️ : Here is the archive of the certificates I have obtained [https://www.linkedin.com/in/ltp1120]
-- ❤️‍🔥 : I'm passionate about
+- ❤️ : I'm passionate about
   - 🔐 Information Security
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
 
 [<img src="https://images.credly.com/size/340x340/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="90">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
 
-### 🛠 Languages and Tools 🛠
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100045406261491) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ltp1120/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/CodingReshapeFuture)
+
+## 🛠 Languages and Tools
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -57,9 +58,7 @@
 <br />
 <br />
 
-## 🔥 GitHub Stats 🔥
-
-<div class="flex">
-    <img align="left" height="175" src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</div>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
