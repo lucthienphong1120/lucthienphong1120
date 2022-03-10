@@ -63,3 +63,7 @@
     <img align="left" height="175" src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
+
+## 🏆GitHub Trophies
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&&margin-w=15)
