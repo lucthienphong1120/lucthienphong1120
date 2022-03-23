@@ -51,26 +51,57 @@
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
 
-### 🏆GitHub Trophies
+### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&&margin-w=15)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false">
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&row=2&column=3&margin-w=4&margin-h=4"></p>
+      </td>
+    </tr>
+  </tbody>
+ </table>
 
-### 📊User analysis
+### 📈 User analysis
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=monokai"/>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=monokai"/>
+      </td>
+    </tr>
+  </tbody>
+ </table>
 
-<div>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=monokai"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=monokai"/>
-</div>
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=monokai"/>
+      </th>
+      <th>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=monokai"/>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=monokai"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=monokai"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<div>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=monokai"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=monokai"/>
-</div>
-
-### Profile Views
+### 🧐 Profile Views
 [![](https://visitcount.itsvg.in/api?id=lucthienphong1120&icon=0&color=0)](https://visitcount.itsvg.in)
