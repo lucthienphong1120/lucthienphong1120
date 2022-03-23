@@ -61,43 +61,50 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false">
       </td>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&row=2&column=3&margin-w=4&margin-h=4"></p>
+        <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&row=2&column=4&margin-w=4&margin-h=4"></p>
       </td>
     </tr>
   </tbody>
- </table>
+</table>
 
-### 📈 User analysis
+### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
   <tbody>
     <tr>
       <td>
-        <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=monokai"/>
+        <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
       </td>
     </tr>
   </tbody>
- </table>
+  <tbody>
+    <tr>
+      <td>
+        <img width="715" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=radical">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tbody>
     <tr>
       <th>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=monokai"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
       </th>
       <th>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=monokai"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=dracula"/>
       </th>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=monokai"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=dracula"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=monokai"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=dracula"/>
       </td>
     </tr>
   </tbody>
