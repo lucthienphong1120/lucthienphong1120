@@ -61,7 +61,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=false">
       </td>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&row=2&column=4&margin-w=4&margin-h=4"></p>
+        <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&row=2&column=3&margin-w=4&margin-h=4"></p>
       </td>
     </tr>
   </tbody>
