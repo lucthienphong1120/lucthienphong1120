@@ -81,7 +81,7 @@
   <tbody>
     <tr>
       <td>
-        <img width="715" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=radical">
+        <img width="715" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=dracula">
       </td>
     </tr>
   </tbody>
