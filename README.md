@@ -54,7 +54,7 @@
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&row=1&column=8&margin-w=4"></p>
+<img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&row=1&column=8"></p>
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
