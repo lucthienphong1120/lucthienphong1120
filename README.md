@@ -56,7 +56,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&theme=radical&no-frame=true&row=1&column=8"></p>
 
-### 📈 User Statistics
+### 📈 User Statistics :w
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
@@ -106,5 +106,5 @@
   </tbody>
 </table>
 
-### 🧐 Profile Views
+### 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=lucthienphong1120&icon=0&color=0)](https://visitcount.itsvg.in)
