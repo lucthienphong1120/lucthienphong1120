@@ -1,6 +1,6 @@
 ### `$ whoami`
 
-### Hi there, I'm LTP
+### Hi there, I'm LTP ✔️
 
 ![](https://visitcount.itsvg.in/api?id=lucthienphong1120&icon=0&color=6)
 
@@ -9,7 +9,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 🔥 : Here is <a href="https://ltp110.tk">my personal website</a>
+- 👀 : Here is <a href="https://ltp110.tk">my personal website</a>
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
 - ❤️ : I'm passionate about
   - 🔐 Information Security
@@ -111,7 +111,3 @@
     </tr>
   </tbody>
 </table>
-
-### 👀 Profile Views
-
-![]()
