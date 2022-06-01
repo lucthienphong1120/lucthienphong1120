@@ -51,8 +51,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
+  <a href="https://github-readme-stats.vercel.app/api?username=lucthienphong1120">
     <img align="left" height="175" src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true"/>
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
 </div>
 
 ### 🏆 GitHub Trophies
