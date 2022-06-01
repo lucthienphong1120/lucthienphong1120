@@ -9,7 +9,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 👀 : Here is <a href="https://ltp110.tk">my personal website</a>
+- 👀 : Here is <a href="https://www.ltp110.tk">my personal website</a>
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
 - ❤️ : I'm passionate about
   - 🔐 Information Security
@@ -22,6 +22,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100045406261491) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ltp1120/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/CodingReshapeFuture)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/lucthienphong112.png" alt="TryHackMe">
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
