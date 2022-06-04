@@ -16,7 +16,8 @@
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
 
-[<img src="https://images.credly.com/size/340x340/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="90">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
+<span>[<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="120">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)</span>
+<span>[<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="120">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)</span>
 
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -52,14 +53,8 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=lucthienphong1120">
-    <img align="left" height="175" src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  </a>
-</div>
+<span>[<img src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)</span>
+<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)</span>
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
