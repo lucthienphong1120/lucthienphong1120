@@ -11,8 +11,8 @@
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is <a href="https://www.ltp110.tk">my personal website</a>
 - ✍️ : There is <a href="https://www.crf-blogger.gq">my blog and articles</a>
-- ❤️ : I'm passionate about
-  - 🔐 Information Security
+- ❤️ : I'm passionate about:
+  - 🔐 Cyber Security
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
 
