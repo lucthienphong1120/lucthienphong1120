@@ -2,7 +2,7 @@
 
 ### Hi there, I'm LTP ✔️
 
-> [![View count](https://visitcount.itsvg.in/api?id=lucthienphong1120&icon=0&color=6)](https://visitcount.itsvg.in/api?id=lucthienphong1120)
+> [![View count](https://visitcount.itsvg.in/api?id=lucthienphong1120&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=lucthienphong1120)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
