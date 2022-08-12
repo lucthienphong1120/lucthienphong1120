@@ -23,9 +23,10 @@
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg" height="15">](https://facebook.com/https://www.facebook.com/profile.php?id=100045406261491)
-+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" height="20">](https://linkedin.com/in/https://www.linkedin.com/in/ltp1120/)
-+ [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" height="20">](https://youtube.com/c/https://www.youtube.com/CodingReshapeFuture)
+[![GitHub stars](https://img.shields.io/github/stars/lucthienphong1120?style=social)](https://github.com/lucthienphong1120)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)](https://youtube.com/c/https://www.youtube.com/CodingReshapeFuture)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCrw-zlFbUUGfXxJbEnXKvTQ?style=social)](https://youtube.com/c/https://www.youtube.com/CodingReshapeFuture)
+[![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge?style=social)](https://facebook.com/https://www.facebook.com/profile.php?id=100045406261491)
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
