@@ -1,5 +1,7 @@
 ### `$ whoami`
 
+*This personal github CV is automatically generated with [Github Profile Maker](https://github.com/lucthienphong1120/github-profile-maker)*
+
 ### Hi there, I'm LTP ✔️
 
 > [![View count](https://visitcount.itsvg.in/api?id=lucthienphong1120&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=lucthienphong1120)
@@ -72,6 +74,8 @@
 <a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
 </a>
+
+*User achievement statistics by [Github Trophies](https://github.com/lucthienphong1120/github-trophies)*
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
