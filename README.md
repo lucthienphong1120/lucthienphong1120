@@ -20,6 +20,7 @@
   - 🖥️ Website Developer
   - 📝 Writeups and Documenting
 
+[<img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100">](https://www.credly.com/badges/a6f3b169-ea7e-4883-a8e9-dd27c13e779f)
 [<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
 [<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="100">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
 [<img src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
