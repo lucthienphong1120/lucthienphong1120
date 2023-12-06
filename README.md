@@ -12,8 +12,8 @@
 
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.cyou/)
-- ✍️ : There is [my blog and articles](https://blog.crfnetwork.cyou/)
-- 📧 : Contact me at [admin@crfnetwork.cyou](https://www.crfnetwork.cyou/)
+- ✍️ : There is [my blog and articles](https://blog.crfnetwork.com/)
+- 📧 : Contact me at [admin@crfnetwork.com](mailto:admin@crfnetwork.com)
 - ❤️ : I'm passionate about:
   - 🔐 Cyber Security
   - 🪐 Operating Systems (Windows & Linux)
