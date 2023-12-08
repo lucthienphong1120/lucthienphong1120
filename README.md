@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+DevSecOps Engineer;I'm+a+Security+Engineer"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps Engineer"></p>
 
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.cyou/)
@@ -28,6 +28,10 @@
 [<img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" width="100">](https://www.credly.com/badges/2722e59a-26df-4d5c-b8e2-2601ce3a3928)
 [<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/249607c0f4516eac)
 [<img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/c6d70da18e9c6190)
+[<img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100">](https://www.credly.com/badges/b1ce341d-0d74-40cc-abf4-b5ca2cabed93)
+[<img src="https://images.credly.com/size/680x680/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" width="100">](https://www.credly.com/badges/749bf565-dd4b-41bb-bc1e-04cc8a582832)
+[<img src="https://images.credly.com/size/680x680/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png" width="100">](https://www.credly.com/badges/90bef0cb-fe99-4b84-bf03-1323b1980b37)
+[<img src="https://images.credly.com/size/680x680/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png" width="100">](https://www.credly.com/badges/4ccbb8db-7371-4d6a-96dd-c2076fc6b761)
 
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
