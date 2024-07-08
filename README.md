@@ -1,4 +1,4 @@
-![image](https://github.com/lucthienphong1120/lucthienphong1120/assets/90561566/a99d219e-5dc2-4478-84fb-5a9836ec2520)### `$ whoami`
+### `$ whoami`
 
 *This personal github CV is automatically generated with [Github Profile Maker](https://github.com/lucthienphong1120/github-profile-maker)*
 
