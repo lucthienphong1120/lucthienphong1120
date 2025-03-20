@@ -13,6 +13,7 @@
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
 - ✍️ : There is [my blog and articles](https://blog.crfnetwork.com/)
+- ✍️ : I am the author of Monitoring series in [DevOpsEdu](https://devopsedu.vn/xay-dung-he-thong-giam-sat-toan-dien-thuc-te/)
 - 📧 : Contact me at [admin@crfnetwork.com](mailto:admin@crfnetwork.com)
 - ❤️ : I'm passionate about:
   - 🔐 Cyber Security
