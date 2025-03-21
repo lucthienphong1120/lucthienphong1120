@@ -115,8 +115,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=dracula">
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=lucthienphong1120&theme=dracula">
         </a>
       </td>
     </tr>
