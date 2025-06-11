@@ -33,6 +33,7 @@
 [<img src="https://images.credly.com/size/680x680/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png" width="100">](https://www.credly.com/badges/4ccbb8db-7371-4d6a-96dd-c2076fc6b761)
 [<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100">](https://www.credly.com/badges/b0c7f823-b7ae-4ff7-b865-0963bf27693f)
 [<img src="https://images.credly.com/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob" width="100">](https://www.credly.com/badges/69b9ae89-06be-4270-afd0-d2be32a8b294)
+[<img src="https://images.credly.com/size/680x680/images/54036f7e-3877-4822-8581-e6a98ebfbac8/blob" width="100">](https://www.credly.com/badges/845ef0c7-6a2a-41bc-8db3-3e40caeebac6)
 
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
