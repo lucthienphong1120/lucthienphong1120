@@ -31,7 +31,7 @@
 [<img src="https://images.credly.com/size/680x680/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" width="100">](https://www.credly.com/badges/749bf565-dd4b-41bb-bc1e-04cc8a582832)
 [<img src="https://images.credly.com/size/680x680/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png" width="100">](https://www.credly.com/badges/90bef0cb-fe99-4b84-bf03-1323b1980b37)
 [<img src="https://images.credly.com/size/680x680/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png" width="100">](https://www.credly.com/badges/4ccbb8db-7371-4d6a-96dd-c2076fc6b761)
-[<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100">](https://www.credly.com/badges/b0c7f823-b7ae-4ff7-b865-0963bf27693f)
+[<img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="100">](https://www.credly.com/badges/b0c7f823-b7ae-4ff7-b865-0963bf27693f)
 [<img src="https://images.credly.com/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob" width="100">](https://www.credly.com/badges/69b9ae89-06be-4270-afd0-d2be32a8b294)
 [<img src="https://images.credly.com/size/680x680/images/54036f7e-3877-4822-8581-e6a98ebfbac8/blob" width="100">](https://www.credly.com/badges/845ef0c7-6a2a-41bc-8db3-3e40caeebac6)
 [<img src="https://images.credly.com/size/680x680/images/c11bafc3-28fe-4af5-8242-ffb2dabba818/blob" width="100">](https://www.credly.com/badges/842e748b-c789-4aff-a947-d42e1f8cdbd0)
