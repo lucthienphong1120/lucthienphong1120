@@ -1,7 +1,5 @@
 ### `$ whoami`
 
-*This personal github CV is automatically generated with [Github Profile Maker](https://github.com/lucthienphong1120/github-profile-maker)*
-
 ### Hi there, I'm LTP ✔️
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
