@@ -6,7 +6,7 @@
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Full+Stack+Developer;I%27m+a+System+Engineer;I%27m+a+DevSecOps%20Engineer"></p>
 
-- 🇻🇳 : I'm from VietNam
+- 🇻🇳 : I'm from VietNam, Founder of [Coding Reshape Future](https://www.crfnetwork.com)
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
 - ✍️ : There is [my blog and articles](https://blog.crfnetwork.com/)
 - ✍️ : I am the author of Monitoring series in [DevOpsEdu](https://devopsedu.vn/xay-dung-he-thong-giam-sat-toan-dien-thuc-te/)
